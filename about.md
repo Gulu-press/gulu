@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A family living somewhere outsides their home countries
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is for recording personal growth
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:press.gulu@gmail.com)
