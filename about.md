@@ -12,4 +12,4 @@ This blog is for recording personal growth
 
 ### Contact me
 
-[email@domain.com](mailto:press.gulu@gmail.com)
+[press.gulu@gmail.com](mailto:press.gulu@gmail.com)
