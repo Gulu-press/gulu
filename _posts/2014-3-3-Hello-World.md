@@ -5,9 +5,9 @@ title: Hello 2021
 
 (template from https://yearcompass.com/)
 
-#About 2020#
+# About 2020 #
 
-##Go through last year’s calendar week by week. If you see an important event, family gathering, friendly get-together or a significant project, write it down here.##
+## Go through last year’s calendar week by week. If you see an important event, family gathering, friendly get-together or a significant project, write it down here. ##
 
-##This is what my last year was about##
-###personal life and family###
+## This is what my last year was about ##
+### personal life and family ###
